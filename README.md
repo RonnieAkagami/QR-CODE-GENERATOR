@@ -26,15 +26,7 @@ The script will prompt you to enter a URL or text for which you want to generate
 
 You will be asked to provide a file name (ending with .png) to save the generated QR code.
 
-Example:
 
-bash
-Copy code
-Enter the link you want to convert to a QR code: https://example.com
-Enter the file name (with .png extension): example_qr.png
-The QR code will be generated and saved with the specified name in the same directory.
-Example Output
-A generated QR code will look like this:
 
 
 License
