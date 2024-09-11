@@ -1,6 +1,4 @@
-Here’s a sample README file for your Python project that generates QR codes:
 
----
 
 # QR Code Generator
 
@@ -59,6 +57,4 @@ A generated QR code will look like this:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to adjust the sections or add more details as needed!
